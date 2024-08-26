@@ -1,5 +1,11 @@
 <?php 
 
+
+	//Exercício 01 - Dupla:
+	//Nome: Davi Nunes de Brito
+	//Nome: Filippie Amaral
+
+
 	$exame = 0;
 	$aprovado = 0;
 	$reprovado = 0;
